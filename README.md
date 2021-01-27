@@ -1,7 +1,7 @@
 # SoCietly
 
 ## Community app for School of Code alumni
-### Keeping all School of Code bootcampers connected after the School of Code
+### Keeping all bootcampers connected after the School of Code
 
 *December 2020 - January 2021 - 4 week project*
 
