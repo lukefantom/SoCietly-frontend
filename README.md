@@ -5,6 +5,8 @@
 
 *December 2020 - January 2021 - 4 week project*
 
+![login-page](https://github.com/lukefantom/SoCietly-frontend/blob/main/public/societly-login.png)
+
 ### The project brief
 
 *"How can we better keep track of ex-bootcampers after the course?"*
@@ -21,9 +23,20 @@ After conducting user research, we found that School of Code staff wanted to inc
 
 Worked within an agile team of 5 people to build a full-stack application for the School of Code in 4 weeks. The platform aims to strengthen the community after the course through event organisation, while allowing coaches to gauge the wider impact of the course. We utilised tools such as Jira to plan and work in short sprints, as well as Balsamiq and Adobe XD, to build wireframe and hi- fidelity designs. I focused primarily on front-end implementation using React, as well as the front-end design and user experience. We implemented external modules including Nodemailer to integrate event reminders and updates, and the Google Maps API for event locations.
 
+![homepage](https://github.com/lukefantom/SoCietly-frontend/blob/main/public/societly-homepage.png)
+
 Tech stack:
 HTML5, CSS3, JavaScript, React, Node.js, PostgreSQL, Heroku DB, Netlify, Firebase, Google Maps, Cloudinary, Luxon, Material UI, Cypress, Figma, Jira. Hosted using Heroku and Netlify.
 
-Please visit our [Demo Day presentation](https://www.youtube.com/watch?v=9gjLqZn24ZY) for more information about the project and how it was built.
+## See our [Demo Day presentation](https://www.youtube.com/watch?v=9gjLqZn24ZY) for more information about the project and how it was built.
 
+### Profile Page
+
+![profile](https://github.com/lukefantom/SoCietly-frontend/blob/main/public/societly-profile.png)
+
+![edit-profile](https://github.com/lukefantom/SoCietly-frontend/blob/main/public/societly-edit-profile.png)
+
+### User Signup
+
+![signup](https://github.com/lukefantom/SoCietly-frontend/blob/main/public/societly-signup.png)
 
